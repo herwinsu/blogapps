@@ -1,6 +1,6 @@
 # Welcome to blogapps!
 
-This is web example build on golnag with Buffalo.
+This is web example build on golang with A Go web development eco-system (Buffalo).
 
 ## Database Setup
 
